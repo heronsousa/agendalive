@@ -1,0 +1,16 @@
+.tabs {
+  padding: 40px 2% 0;
+}
+
+.lives {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+  padding: 2%;
+}
+
+.card {
+  margin: 0.5%;
+  flex: 1 1 200px;
+}

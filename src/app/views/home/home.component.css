@@ -1,0 +1,12 @@
+.tool-bar {
+  font-size: 24px;
+  align-items: center;
+}
+
+span {
+  margin-right: 10px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
